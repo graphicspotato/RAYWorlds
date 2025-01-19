@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: Two or more files with the name of gl.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Dependencies\GLAD\src\gl.c, src\gl.c.
+  Application.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Renderer.h(10,1): warning C4005: 'ASSERT': macro redefinition
+  (compiling source file 'src/Application.cpp')
+  C:\dev\RAYENGINE\RAYENGINE\src\VertexBufferLayout.h(8,1):
+  see previous definition of 'ASSERT'
+  
+C:\dev\RAYENGINE\RAYENGINE\src\Clock.h(41,2): warning C4091: 'static ': ignored on left of 'Clock' when no variable is declared
+  (compiling source file 'src/Application.cpp')
+  
+C:\dev\RAYENGINE\RAYENGINE\src\Application.cpp(116,107): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\dev\RAYENGINE\RAYENGINE\src\Application.cpp(116,87): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\dev\RAYENGINE\RAYENGINE\src\Application.cpp(122,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\RAYENGINE\RAYENGINE\src\VertexBufferLayout.h(26): warning C4715: 'VertexBufferElement::GetSizeOfType': not all control paths return a value
+  RAYENGINE.vcxproj -> C:\dev\RAYENGINE\RAYENGINE\x64\Debug\RAYENGINE.exe

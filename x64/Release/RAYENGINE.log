@@ -1,0 +1,71 @@
+﻿  gl.c
+  glm.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Application.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Renderer.h(10,1): warning C4005: 'ASSERT': macro redefinition
+  (compiling source file 'src/Application.cpp')
+  C:\dev\RAYENGINE\RAYENGINE\src\VertexBufferLayout.h(8,1):
+  see previous definition of 'ASSERT'
+  
+C:\dev\RAYENGINE\RAYENGINE\src\Clock.h(41,2): warning C4091: 'static ': ignored on left of 'Clock' when no variable is declared
+  (compiling source file 'src/Application.cpp')
+  
+C:\dev\RAYENGINE\RAYENGINE\src\Application.cpp(100,107): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\dev\RAYENGINE\RAYENGINE\src\Application.cpp(100,87): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+  Camera.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Clock.h(41,2): warning C4091: 'static ': ignored on left of 'Clock' when no variable is declared
+  (compiling source file 'src/Camera.cpp')
+  
+  Clock.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Clock.h(41,2): warning C4091: 'static ': ignored on left of 'Clock' when no variable is declared
+  (compiling source file 'src/Clock.cpp')
+  
+C:\dev\RAYENGINE\RAYENGINE\src\Clock.cpp(11,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GUI.cpp
+  IndexBuffer.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Renderer.h(10,1): warning C4005: 'ASSERT': macro redefinition
+  (compiling source file 'src/IndexBuffer.cpp')
+  C:\dev\RAYENGINE\RAYENGINE\src\VertexBufferLayout.h(8,1):
+  see previous definition of 'ASSERT'
+  
+  Renderer.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Renderer.h(10,1): warning C4005: 'ASSERT': macro redefinition
+  (compiling source file 'src/Renderer.cpp')
+  C:\dev\RAYENGINE\RAYENGINE\src\VertexBufferLayout.h(8,1):
+  see previous definition of 'ASSERT'
+  
+  Shader.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Renderer.h(10,1): warning C4005: 'ASSERT': macro redefinition
+  (compiling source file 'src/Shader.cpp')
+  C:\dev\RAYENGINE\RAYENGINE\src\VertexBufferLayout.h(8,1):
+  see previous definition of 'ASSERT'
+  
+  VertexArray.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Renderer.h(10,1): warning C4005: 'ASSERT': macro redefinition
+  (compiling source file 'src/VertexArray.cpp')
+  C:\dev\RAYENGINE\RAYENGINE\src\VertexBufferLayout.h(8,1):
+  see previous definition of 'ASSERT'
+  
+C:\dev\RAYENGINE\RAYENGINE\src\VertexArray.cpp(27,3): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+  VertexBuffer.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Renderer.h(10,1): warning C4005: 'ASSERT': macro redefinition
+  (compiling source file 'src/VertexBuffer.cpp')
+  C:\dev\RAYENGINE\RAYENGINE\src\VertexBufferLayout.h(8,1):
+  see previous definition of 'ASSERT'
+  
+  Window.cpp
+C:\dev\RAYENGINE\RAYENGINE\src\Clock.h(41,2): warning C4091: 'static ': ignored on left of 'Clock' when no variable is declared
+  (compiling source file 'src/Window.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\dev\RAYENGINE\RAYENGINE\src\VertexBufferLayout.h(26): warning C4715: 'VertexBufferElement::GetSizeOfType': not all control paths return a value
+  All 2498 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RAYENGINE.vcxproj -> C:\dev\RAYENGINE\RAYENGINE\x64\Release\RAYENGINE.exe
