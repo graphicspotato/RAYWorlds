@@ -1,1 +1,1 @@
-<img src="mountains.png" alt="Example Image" width="300">
+<img src="mountains.png" alt="Mountains" width="%100">
